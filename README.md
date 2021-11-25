@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sebstm
+- 👋 Hi, I’m bastian
 - 👀 I’m interested in learning python, javascript or golang
 - 🌱 I’m currently learning python and django
 - 📫 How to reach me bastianomoret@gmail.com
